@@ -11,6 +11,7 @@ import org.springframework.web.method.support.ModelAndViewContainer;
 
 /**
  * @author ShallowAn
+ * 用户参数解析器
  */
 @Service
 public class UserArgumentResolver implements HandlerMethodArgumentResolver {
